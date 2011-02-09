@@ -1,0 +1,247 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* BalloonGameTutorial */ = {
+		activeExec = 0;
+		executables = (
+			A135120A11985E0C007C9395 /* BalloonGameTutorial */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = A135120A11985E0C007C9395 /* BalloonGameTutorial */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* BalloonGameTutorial */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* BalloonGameTutorial */,
+		);
+		codeSenseManager = A135121C11985E0F007C9395 /* Code sense */;
+		executables = (
+			A135120A11985E0C007C9395 /* BalloonGameTutorial */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					392,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					352,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 298495024;
+			PBXWorkspaceStateSaveDate = 298495024;
+		};
+		perUserProjectItems = {
+			A1527B0B11BD905B00995392 /* PBXTextBookmark */ = A1527B0B11BD905B00995392 /* PBXTextBookmark */;
+			A1527B0C11BD905B00995392 /* PBXTextBookmark */ = A1527B0C11BD905B00995392 /* PBXTextBookmark */;
+			A1527B0D11BD905B00995392 /* PBXTextBookmark */ = A1527B0D11BD905B00995392 /* PBXTextBookmark */;
+			A1527B0E11BD905B00995392 /* PBXTextBookmark */ = A1527B0E11BD905B00995392 /* PBXTextBookmark */;
+			A1527B0F11BD905B00995392 /* PBXTextBookmark */ = A1527B0F11BD905B00995392 /* PBXTextBookmark */;
+			A1527B1011BD905B00995392 /* PlistBookmark */ = A1527B1011BD905B00995392 /* PlistBookmark */;
+			A19F5B4611A1989E00BDA356 /* PBXTextBookmark */ = A19F5B4611A1989E00BDA356 /* PBXTextBookmark */;
+			A1D88C3311CAACA100C1F960 /* PlistBookmark */ = A1D88C3311CAACA100C1F960 /* PlistBookmark */;
+		};
+		sourceControlManager = A135121B11985E0F007C9395 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {570, 365}}";
+			sepNavSelRange = "{221, 0}";
+			sepNavVisRange = "{0, 386}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* BalloonGameTutorial_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {860, 365}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRange = "{0, 228}";
+		};
+	};
+	A135120A11985E0C007C9395 /* BalloonGameTutorial */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "BalloonGameTutorial";
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	A135121B11985E0F007C9395 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	A135121C11985E0F007C9395 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	A13512FB11986427007C9395 /* BalloonGameTutorialAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {708, 385}}";
+			sepNavSelRange = "{295, 0}";
+			sepNavVisRange = "{0, 507}";
+		};
+	};
+	A13512FC11986427007C9395 /* BalloonGameTutorialAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {596, 780}}";
+			sepNavSelRange = "{1127, 0}";
+			sepNavVisRange = "{668, 506}";
+		};
+	};
+	A13512FE11986481007C9395 /* Game.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {570, 365}}";
+			sepNavSelRange = "{195, 0}";
+			sepNavVisRange = "{0, 229}";
+		};
+	};
+	A13512FF11986481007C9395 /* Game.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {588, 420}}";
+			sepNavSelRange = "{625, 0}";
+			sepNavVisRange = "{14, 644}";
+		};
+	};
+	A1527B0B11BD905B00995392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A13512FC11986427007C9395 /* BalloonGameTutorialAppDelegate.m */;
+		name = "BalloonGameTutorialAppDelegate.m: 46";
+		rLen = 0;
+		rLoc = 1127;
+		rType = 0;
+		vrLen = 506;
+		vrLoc = 668;
+	};
+	A1527B0C11BD905B00995392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A13512FE11986481007C9395 /* Game.h */;
+		name = "Game.h: 9";
+		rLen = 0;
+		rLoc = 195;
+		rType = 0;
+		vrLen = 229;
+		vrLoc = 0;
+	};
+	A1527B0D11BD905B00995392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A13512FF11986481007C9395 /* Game.m */;
+		name = "Game.m: 22";
+		rLen = 0;
+		rLoc = 625;
+		rType = 0;
+		vrLen = 644;
+		vrLoc = 14;
+	};
+	A1527B0E11BD905B00995392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 11";
+		rLen = 0;
+		rLoc = 221;
+		rType = 0;
+		vrLen = 386;
+		vrLoc = 0;
+	};
+	A1527B0F11BD905B00995392 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* BalloonGameTutorial_Prefix.pch */;
+		name = "BalloonGameTutorial_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 228;
+		vrLoc = 0;
+	};
+	A1527B1011BD905B00995392 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BalloonGameTutorial-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Library/Application Support/Developer/Shared/Xcode/Project Templates/Sparrow Framework/Sparrow Based Application/Sparrow Based iPhone Application/BalloonGameTutorial-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	A19F5B4611A1989E00BDA356 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = A13512FB11986427007C9395 /* BalloonGameTutorialAppDelegate.h */;
+		name = "BalloonGameTutorialAppDelegate.h: 12";
+		rLen = 0;
+		rLoc = 295;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	A1D88C3311CAACA100C1F960 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* BalloonGameTutorial-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Library/Application Support/Developer/Shared/Xcode/Project Templates/Sparrow Framework/Sparrow Based Application/Sparrow Based iPhone Application/BalloonGameTutorial-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}
